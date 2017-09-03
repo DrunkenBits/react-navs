@@ -7,9 +7,9 @@ const minify = false
 
 export default {
   entry: 'source/index.js',
-  targets: [{dest: `dist/react-navs.es.js`, format: 'es'}],
+  targets: [{dest: `dist/react-tabs-handler.es.js`, format: 'es'}],
   exports: 'named',
-  moduleName: 'ReactNavs',
+  moduleName: 'TabsHandler',
   format: 'es',
   external: ['react', 'prop-types'],
   plugins: [
