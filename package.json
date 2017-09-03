@@ -11,7 +11,10 @@
   },
   "jsnext:main": "dist/react-tabs-handler.es.js",
   "module": "dist/react-tabs-handler.es.js",
-  "keywords": ["react", "tabs"],
+  "keywords": [
+    "react",
+    "tabs"
+  ],
   "author": "Luca Barone <baro.luc@gmail.com>",
   "repository": {
     "type": "git",
