@@ -1,4 +1,7 @@
 {
+  "name": "@cloudwalker/react-navs",
+  "version": "0.1.0-2",
+  "description": "Presentation-less component to build robust navs / tabs",
   "scripts": {
     "prepublish": "rollup -c",
     "storybook": "start-storybook -p 9001 -c .storybook"
@@ -8,13 +11,7 @@
   },
   "jsnext:main": "dist/react-navs.es.js",
   "module": "dist/react-navs.es.js",
-  "name": "@cloudwalker/react-navs",
-  "version": "0.1.0-2",
-  "description": "Presentation-less component to build robust navs / tabs",
-  "keywords": [
-    "react",
-    "tabs"
-  ],
+  "keywords": ["react", "tabs"],
   "author": "Luca Barone <baro.luc@gmail.com>",
   "repository": {
     "type": "git",
