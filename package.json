@@ -1,7 +1,7 @@
 {
-  "name": "@cloudwalker/react-navs",
+  "name": "@cloudwalker/react-tabs-handler",
   "version": "0.1.0-2",
-  "description": "Presentation-less component to build robust navs / tabs",
+  "description": "Presentation-less component to build robust tabs",
   "scripts": {
     "prepublish": "rollup -c",
     "storybook": "start-storybook -p 9001 -c .storybook"
@@ -9,18 +9,18 @@
   "publishConfig": {
     "access": "public"
   },
-  "jsnext:main": "dist/react-navs.es.js",
-  "module": "dist/react-navs.es.js",
+  "jsnext:main": "dist/react-tabs-handler.es.js",
+  "module": "dist/react-tabs-handler.es.js",
   "keywords": ["react", "tabs"],
   "author": "Luca Barone <baro.luc@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DrunkenBits/react-navs"
+    "url": "https://github.com/cloud-walker/react-tabs-handler"
   },
   "bugs": {
-    "url": "https://github.com/DrunkenBits/react-navs/issues"
+    "url": "https://github.com/cloud-walker/react-tabs-handler/issues"
   },
-  "homepage": "https://github.com/DrunkenBits/react-navs#readme",
+  "homepage": "https://github.com/cloud-walker/react-tabs-handler#readme",
   "peerDependencies": {
     "prop-types": ">=15",
     "react": ">=15"
